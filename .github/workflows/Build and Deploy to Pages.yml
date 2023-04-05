@@ -22,10 +22,10 @@ jobs:
 
       - name: Install and Build
         run: |
+          npm CI
           npm run build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: build # The folder the action should deploy.
-          branch: HECS-Impact-Calculator
