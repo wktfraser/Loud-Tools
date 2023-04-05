@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.js": "/Loud-Tools/static/js/main.3dce793e.js",
+    "main.js": "/Loud-Tools/static/js/main.51749c1a.js",
     "static/js/787.fb87aa3c.chunk.js": "/Loud-Tools/static/js/787.fb87aa3c.chunk.js",
-    "static/media/logo.svg": "/Loud-Tools/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
     "index.html": "/Loud-Tools/index.html",
-    "main.3dce793e.js.map": "/Loud-Tools/static/js/main.3dce793e.js.map",
+    "main.51749c1a.js.map": "/Loud-Tools/static/js/main.51749c1a.js.map",
     "787.fb87aa3c.chunk.js.map": "/Loud-Tools/static/js/787.fb87aa3c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3dce793e.js"
+    "static/js/main.51749c1a.js"
   ]
 }
